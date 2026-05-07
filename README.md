@@ -106,4 +106,3 @@ Kode dan arsitektur dalam repositori ini dikembangkan murni untuk keperluan rise
 **Institusi:** Prodi S1 Informatika, Departemen Informatika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Syiah Kuala.
 
 **Tahun:** 2026
-```
